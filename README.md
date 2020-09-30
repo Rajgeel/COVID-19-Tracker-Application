@@ -116,6 +116,8 @@ OS name: "linux", version: "5.4.0-26-generic", arch: "amd64", family: "unix"
 - SpringBoot
 - Maven
 - Thymeleaf
+- HTML
+- Bootstrap
 
 ## Contributing
 
