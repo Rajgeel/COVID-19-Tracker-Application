@@ -110,6 +110,12 @@ Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "5.4.0-26-generic", arch: "amd64", family: "unix"
 ```
 
+## Stacks used
+
+- Java
+- SpringBoot
+- Maven
+- Thymeleaf
 
 ## Contributing
 
