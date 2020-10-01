@@ -105,7 +105,7 @@ The output should look something like this:
 ```
 Apache Maven 3.6.3
 Maven home: /usr/share/maven
-Java version: 11.0.7, vendor: Ubuntu, runtime: /usr/lib/jvm/java-11-openjdk-amd64
+Java version: 11.0.8, vendor: Ubuntu, runtime: /usr/lib/jvm/java-11-openjdk-amd64
 Default locale: en_US, platform encoding: UTF-8
 OS name: "linux", version: "5.4.0-26-generic", arch: "amd64", family: "unix"
 ```
