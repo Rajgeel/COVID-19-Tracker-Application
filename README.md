@@ -7,6 +7,7 @@ It is a web application which gives the number of COVID-19 patient across the gl
 
 Through this application, the people can find the total number of COVID-19 patient across the globe, country and state and can also find the number of daily cases.
 
+![](Screenshot.png)
 
 ## Prerequisites
 
